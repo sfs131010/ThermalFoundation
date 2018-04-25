@@ -1,9 +1,9 @@
 #zh_TW
 
-chat.thermalfoundation.augment.install.failure=Unable to install augment.
-chat.thermalfoundation.augment.install.success=Augment successfully installed!
-chat.thermalfoundation.upgrade.install.failure=Unable to upgrade block.
-chat.thermalfoundation.upgrade.install.success=Block successfully upgraded!
+chat.thermalfoundation.augment.install.failure=無法安裝擴充。
+chat.thermalfoundation.augment.install.success=擴充已成功安裝！
+chat.thermalfoundation.upgrade.install.failure=無法升級方塊。
+chat.thermalfoundation.upgrade.install.success=方塊已成功升級！
 
 death.attack.basalz=%1$s 的世界被撼動了！
 death.attack.blitz=%1$s 被慘烈的開導了！
@@ -19,9 +19,9 @@ death.attack.petrotheum=%1$s 被粉碎了！
 death.attack.pyrotheum.player=%1$s 為了逃脫 %2$s 而被活活燒死！
 death.attack.pyrotheum=%1$s 誤把高溫沸石當成了水！
 
-entity.thermalfoundation.basalz.name=Basalz
-entity.thermalfoundation.blitz.name=Blitz
-entity.thermalfoundation.blizz.name=Blizz
+entity.thermalfoundation.basalz.name=巖石使者
+entity.thermalfoundation.blitz.name=暴風使者
+entity.thermalfoundation.blizz.name=寒冰使者
 
 fluid.aerotheum=天空風石液
 fluid.coal=液態煤炭
