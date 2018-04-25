@@ -1,5 +1,10 @@
 #zh_TW
 
+chat.thermalfoundation.augment.install.failure=Unable to install augment.
+chat.thermalfoundation.augment.install.success=Augment successfully installed!
+chat.thermalfoundation.upgrade.install.failure=Unable to upgrade block.
+chat.thermalfoundation.upgrade.install.success=Block successfully upgraded!
+
 death.attack.basalz=%1$s 的世界被撼動了！
 death.attack.blitz=%1$s 被慘烈的開導了！
 death.attack.blizz=%1$s 遭受凍結的命運！
@@ -14,16 +19,40 @@ death.attack.petrotheum=%1$s 被粉碎了！
 death.attack.pyrotheum.player=%1$s 為了逃脫 %2$s 而被活活燒死！
 death.attack.pyrotheum=%1$s 誤把高溫沸石當成了水！
 
+entity.thermalfoundation.basalz.name=Basalz
+entity.thermalfoundation.blitz.name=Blitz
+entity.thermalfoundation.blizz.name=Blizz
+
 fluid.aerotheum=天空風石液
 fluid.coal=液態煤炭
+fluid.constantan=Molten Constantan
+fluid.creosote=Creosote Oil
+fluid.crude_oil=Crude Oil
 fluid.cryotheum=低溫寒石液
 fluid.ender=諧律終界液
+fluid.enderium=Molten Enderium
+fluid.experience=Essence of Knowledge
 fluid.glowstone=充能液態螢石
+fluid.lumium=Molten Lumium
+fluid.invar=Molten Invar
+fluid.iridium=Molten Iridium
 fluid.mana=遠古魔力
+fluid.mushroom_stew=Mushroom Stew
 fluid.petrotheum=大地土石液
+fluid.platinum=Molten Platinum
+fluid.potion=Potion
+fluid.potion_lingering=Lingering Potion
+fluid.potion_splash=Splash Potion
 fluid.pyrotheum=高溫沸石液
 fluid.redstone=不穩定的液態紅石
+fluid.refined_fuel=Refined Fuel
+fluid.refined_oil=Naphtha
+fluid.resin=Resin
+fluid.sap=Sap
+fluid.signalum=Molten Signalum
 fluid.steam=蒸汽
+fluid.syrup=Syrup
+fluid.tree_oil=Tree Oil
 
 gui.thermalfoundation.lexicon.study=辭典 - 知識
 gui.thermalfoundation.lexicon.transmute=辭典 - 變換
